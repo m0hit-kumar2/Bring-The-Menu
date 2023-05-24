@@ -1,6 +1,6 @@
 # bring_the_menu
 
- Glimise of the UI [Old UI]
+ Glimise of the UI [ Old UI ]
 
 <img src="https://github.com/m0hit-kumar/Bring-The-Menu/assets/60257288/001119ca-3a54-4702-af96-7a9a15f54883" alt="Scan QR" width="200">
 <img src="https://github.com/m0hit-kumar/Bring-The-Menu/assets/60257288/3b849fba-4b5b-4039-9e6a-bc627c45de8d" alt="On-Boarding" width="200">
